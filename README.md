@@ -1,4 +1,4 @@
-pronounced as "Odamin", University student.
+University student.
 
 
 
