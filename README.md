@@ -1,6 +1,6 @@
 [![wakatime](https://wakatime.com/badge/user/ae6a5d94-38ec-455e-8b9f-3d31cb1e4904.svg)](https://wakatime.com/@ae6a5d94-38ec-455e-8b9f-3d31cb1e4904)
 
-University student. "Marshal Plan" is in progress：<br>
+University student. <br>
 
 ![Python](https://img.shields.io/badge/Python-Expert-7e3ace?style=flat&logo=python&logoColor=Blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Pro-1f6feb?style=flat&logo=javascript&logoColor=yellow)
